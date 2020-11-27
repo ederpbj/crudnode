@@ -10,3 +10,5 @@
 | ler dados do form | npm install body-parser --save |
 | rodar nodemon     | npm run dev                    |
 | instalar mongodb  | npm install mongodb --save     |
+
+ok
